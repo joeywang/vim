@@ -43,3 +43,21 @@
 [submodule "bundle/neocomplcache"]
 	path = bundle/neocomplcache
 	url = https://github.com/Shougo/neocomplcache.git
+[submodule "bundle/matchit"]
+	path = bundle/matchit
+	url = https://github.com/tsaleh/vim-matchit.git
+[submodule "bundle/abolish"]
+	path = bundle/abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/unimpaired"]
+	path = bundle/unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/DetectIndent"]
+	path = bundle/DetectIndent
+	url = https://github.com/vim-scripts/DetectIndent.git
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = https://github.com/tpope/vim-sensible.git
